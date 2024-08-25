@@ -1,0 +1,16 @@
+# Folder
+/__pycache
+/.vscode
+/.idea
+/data
+/docx
+/result
+/Script
+
+# file type
+*.ipynb
+*.key
+*.spec
+
+# File
+test.py
